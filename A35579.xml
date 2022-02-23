@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some animadversions on a case inserted in a book lately printed entituled Modern reports, or, Select cases adjudged in the courts of Kings-Bench, Chancery, Common Pleas, and Exchequer, since the restauration of His Majesty King Charles the Second.</title>
+            <author>L. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35579</idno>
+            <idno type="STC">Wing C83</idno>
+            <idno type="STC">ESTC R35824</idno>
+            <idno type="EEBO-CITATION">15564546</idno>
+            <idno type="OCLC">ocm 15564546</idno>
+            <idno type="VID">103788</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35579)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103788)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1588:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some animadversions on a case inserted in a book lately printed entituled Modern reports, or, Select cases adjudged in the courts of Kings-Bench, Chancery, Common Pleas, and Exchequer, since the restauration of His Majesty King Charles the Second.</title>
+                  <author>L. C.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 12: L.C., Philalethis.</note>
+                  <note>Errata: p. 12.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mosdel, Stephen.</term>
+               <term>Courts --  England --  Officials and employees.</term>
+               <term>Debt, Imprisonment for --  England.</term>
+               <term>Bailiffs.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103788:1" rendition="simple:additions"/>
+            <p>SOME Animadverſions Upon a CASE inſerted in a BOOK lately Printed, Entituled Modern Reports. OR SELECT CASES,</p>
+            <p>Adjudged in the Courts of <hi>Kings-Bench, Chancery, Common Pleas</hi> and <hi>Exchequer,</hi> ſince the Reſtauration of His Majeſty King <hi>CHARLES</hi> the Second.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, 1682.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:103788:2"/>
+            <p>THe Author of this Book, I believe, is a Gentleman and a Perſon, that did not deſign the prejudice of any Gentleman, whoſe Caſe he hath printed; But there are ſo many Miſtakes and Errors in the Caſe I have pitched upon, which is a Caſe ſo remarkable and notorious for ſeverity, and knowing not how far thoſe Errors and Miſtakes might extend, to the farther Diſ<g ref="char:EOLhyphen"/>advantage of the Gentleman concern'd; I look't upon myſelf obliged in Charity to correct and amend, and as I do it in Charity to the one, ſo in Civility and Reſpect I ſhall do it to the other.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:103788:2"/>
+            <head>The Caſe I have ſingl'd out from the Herd, is the Caſe of <hi>Stephen Moſdel</hi> Eſqr. late Marſhal of his Majeſties Court of Kings-Bench, who had <hi>Summum Jus,</hi> this Gentleman the Reporter in his Book Fo. <hi>116.</hi>
+            </head>
+            <p>SEts out, that an action of debt was brought againſt Mr. <hi>Moſdel</hi> for the Eſcape of <hi>Reynel,</hi> the Plaintiff ſaid, that he could prove, that he was in <hi>London</hi> three long Vacations: Whereas in truth the Plaintiff was a Lady of Quality, who never endeavored to prove <hi>Reynel</hi> to be in <hi>London</hi> any one Vacation whatſoever, but inſiſted on a <hi>habeas Corpus ad teſtificand.</hi> at the Aſſiſes in <hi>Exeter;</hi> in the ſame Fo. he ſaith, that Mr. Juſtice <hi>Twiſden</hi> ſaid, the Marſhal could not give in Evidence a freſh purſuit, but it muſt be pleaded, the contrary whereof was very well known to all the practicers of that Court, that that Reverend and Learned Judg was never of that opinion, for he always declared that upon a <hi>Nil debet</hi> pleaded a freſh purſuit, and a repriſal might be given in Evidence: And then he ſaith, that <hi>Hales</hi> ſaid, that he always let them give a freſh purſuit in Evidence upon a <hi>Nil debet,</hi> which is ſo notori<g ref="char:EOLhyphen"/>ouſly untrue, that all perſons of buſineſs and practice know, that <hi>Hales</hi> would not allow of a freſh purſuit and a repriſal, but when it was ſpe<g ref="char:EOLhyphen"/>cially pleaded, then this Reporter falls off a litttle abruptly, and ſaith, ſo they gave Evidence of a <hi>habeas Corpus ad teſtificand.</hi> and that the Pri<g ref="char:EOLhyphen"/>ſoner went down too long before hand, and ſtayed too long after the Aſſiſes. Now it will clearly appear, that our Reporter was mightily miſtaken, for he ſaith, that the Priſoner ſtayed too long after the Aſ<g ref="char:EOLhyphen"/>ſiſes <hi>(hinc illae Lachrymae)</hi> indeed that is too true, for the Priſoner never returned to the Priſon, nor never will, for he died of the Small-pox in <hi>Devonſhire,</hi> ſome few miles beyond <hi>Exeter</hi> in the time of the Aſſiſes. And then he farther ſaith that he went back threeſcore miles beyond <hi>Wells,</hi> I ſuppoſe he means his Ghoſt, or ſome <hi>Daemon</hi> in form or ſhape of the Priſoner travelled from Aſſiſes to Aſſiſes, to lead the Witneſſes in<g ref="char:EOLhyphen"/>to perjury; after ſome other remote expreſſions he concludes, that <hi>Hales</hi> (as he calls him) ſaid we are made Engines of doing all the miſchief, if this ſhould go unpuniſhed being by Colour of a <hi>habeas Corpus;</hi> ſo the Jury (ſaith he) brought in a Verdict for the Plaintiff, who declared in debt for ſix thouſand and two hundred pounds; now to charge ſo great a man as the Lord Chief Juſtice <hi>Hales</hi> with an expreſſion of ſo great un<g ref="char:EOLhyphen"/>charitableneſs, and ſo contrary to what he ſo publickly declared, makes this Reporter to be more bold than modeſt, notwithſtanding the fair pretences in the <hi>Exordium</hi> of his Book. For the Lord Chief Juſtice <hi>Hales,</hi> as will appear hereafter by ſeveral depoſitions taken upon oath in the high Court of Chancery declared, that if he had brought the action of debt againſt Mr. <hi>Moſdel</hi> as the Lady <hi>Lutterel</hi> did and ſhould recover, if
+<pb n="4" facs="tcp:103788:3"/>
+he ſhould take one ſix pence of it, he believed it would be a Canker to his whole Eſtate, and farther declared that if the Lady had brought an action on the caſe for damages, ſhe had done well, for he believed the Jury would have given very ſmall damages in a caſe of that nature, and as the proofs appeared on both ſides to the Court.</p>
+            <p>That the world may be better informed, and may know that this Gentlemans miſeries ſprang from another Sourſe, the enſuing Narrative is truly and faithfully penned.</p>
+            <p>Mr. <hi>Moſdel</hi> Marſhal of his Majeſties Court of Kings-Bench, by <hi>habeas Corpus ad teſtificand.</hi> at the the Aſſiſes to be held at <hi>Exeter,</hi> which was granted and ſigned by Mr. Juſtice <hi>Raynsford</hi> and Mr. Juſtice <hi>Morton,</hi> the tenor whereof followeth <hi>in haec verba.</hi>
+            </p>
+            <floatingText xml:lang="lat" type="writ">
+               <body>
+                  <opener>
+                     <signed>Carolus Secundus Dei gratiâ, Angliae, Scotiae, Franciae, &amp; Hyberniae Rex fidei Defenſor &amp;c.</signed>
+                     <salute>Mariſchallo Mareſc. noſtrae coram nobis ſaltm.</salute>
+                  </opener>
+                  <p>percipi<g ref="char:EOLhyphen"/>mus tibi quod Corpus Georgij Reynel Ar. in perſonâ noſtrâ ſub Cuſtod. tuâ vt di<g ref="char:EOLhyphen"/>citur detent. ſub ſalvo &amp; ſecur. conduct. habeas coram Juſtic. noſtris ad prox. Aſſias. tent. apud Exon in Com. devon. decimo octavo die Martij prox. futur. ad teſtificand. ea omnia. &amp; ſingla. juxta vetam ſcientiam &amp; notitiam ſuam quae ſciverit in quadam materiâ Controverſiae in Curiâ noſtrâ coram nobis jam penden. indeterminat. inter Johannem Trobridg quer. &amp; Urſulam Fran<g ref="char:EOLhyphen"/>cis vid. defendt. &amp; tunc ad redeund. priſonae perdict. ſub ſalvo conduct. imediate poſt teſtimon. pro perdict. Georgium Reynel perfat. Juſtic. ad tunc &amp; ibidem.</p>
+                  <closer>
+                     <dateline>dat. &amp; habeas ibi tunc hoc bre. T. Matheo Hale mil. apud Weſtm. <date>12 <hi>Die Febr.</hi>
+                        </date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Was commanded as appears by the ſaid writ to carry the ſaid <hi>George Reynel</hi> to <hi>Exeter,</hi> and he was carried thither, but a conveni<g ref="char:EOLhyphen"/>ent time before the Aſſiſes, all accidents conſidered that might hap<g ref="char:EOLhyphen"/>pen in ſo great a Journey, when he was brought to <hi>Exeter</hi> by the <hi>Tipſtaffs</hi> of <hi>Raynsford</hi> and <hi>Morton,</hi> who had the Charge of him by the Command and Appointment of the ſaid two Judges, as well as of Mr. <hi>Moſdel, Reynel</hi> pretends that he muſt go to his own Houſe, which was ſome few miles beyond <hi>Exeter</hi> to peruſe ſome writings to inform his memory, otherwiſe he was not able to give Evi<g ref="char:EOLhyphen"/>dence in the Cauſe, the <hi>Tipſtaffs</hi> told him that they could not con<g ref="char:EOLhyphen"/>ſent to any ſuch thing, for their Authority was only to carry him to <hi>Exeter,</hi> and if he went beyond <hi>Exeter</hi> it would be an Eſcape, but <hi>Reynel</hi> being in his own Country and within the Ring of all his Friends and Relations makes his Eſcape to his own Houſe, the <hi>Tipſtaffs</hi> immediately purſued him, and at his Houſe overtook him, but the ſame Night he came thither he fell ſick of the Small-pox,
+<pb n="5" facs="tcp:103788:3"/>
+and thereof died in their Cuſtody in three days time, which hap<g ref="char:EOLhyphen"/>pened to be in the time of the Aſſiſes.</p>
+            <p>Whereupon, the Lady <hi>Lutterel</hi> as adminiſtratrix <hi>durante minor. aetate</hi> of Mr. <hi>Alexander Lutterel</hi> her ſecond Son brought an action of debt againſt Mr. <hi>Moſdel,</hi> and by the ſtrict and ſevere Rules of Law, the going of <hi>Reynel</hi> beyond <hi>Exeter</hi> was declared to be an Eſcape, and accordingly the Jury ſo found it.</p>
+            <p>This ſevere and heavy Verdict being given againſt Mr. <hi>Moſdel,</hi> he was forc'd to ſurrender his Office and to ſecure his Perſon in obſcure places, whereby he loſt the benefit of an active Life where<g ref="char:EOLhyphen"/>unto he was always bred, to the loſs of above ten thouſand pounds to himſelf and family, and ſtill is kept under the ſame Calamity.</p>
+            <p>Now certainly to all rational and charitable Perſons the ſeverity is clear and evident, that a man by ſome ſmall neglect or inadverten<g ref="char:EOLhyphen"/>cy of his ſervants ſhould himſelf and family be ruined and undone by his being made ſubject and liable to pay 6200 pounds, when the Plaintiff received no damage, the Priſoner would have died at the ſame time he did, if Mr. <hi>Moſdel</hi> had kept him in <hi>Ferris:</hi> Mr. <hi>Moſdel</hi> at the ſame time was but a ſervant to the Court, and muſt give obedience to their rules and <hi>habeas Corpus</hi>'s, and when two Judges of the Court ſhall command him to carry a Priſoner 140 miles from his Priſon, it cannot be preſumed or intended, that Mr. <hi>Moſdel</hi> could have that care of him at ſo great a diſtance as he could, when he had him always in his Eye.</p>
+            <p>How ſuch cruel Carriage one towards another can accord with Chriſtian Religion, or with that natural pity which God hath plac'd in the bowels of mankind I know not? In the time of <hi>Auguſtus</hi> it was de<g ref="char:EOLhyphen"/>creed, that the inſolvent debtor ſhould quit all his goods, but not ſuffer chains, nor ſlavery, not do labor for his Creditor, but the benefit of this Law extended not to prodigal and vain Perſons, but to thoſe only <hi>qui vi majore aliquâ fortunis evertebantur,</hi> perſons that were undone by any great violence, by ſhiprack or fire or any accident unavoida<g ref="char:EOLhyphen"/>ble, or men who were <hi>per vim majorem everſi</hi> not poor by vice, but by misfortune and the divine providence.</p>
+            <p>When mercy and Charity was ſo far extended before Chriſtianity was eſtabliſhed and ſetled, what mercy and Juſtice ought to be ſhewen by us that are Chriſtians, we know that cruelty, violence and inju<g ref="char:EOLhyphen"/>ry is againſt natural Juſtice and Humanity, and when we have or ought to have a proſpect of another and a better being, we ought to act and behave our ſelves here that we may not fail of it here<g ref="char:EOLhyphen"/>after.</p>
+            <p>
+               <pb n="6" facs="tcp:103788:4"/>Here is a Gentleman, his Wife and Children ruined and undone, and for what? why, becauſe his ſervants without his conſent or knowledge, and contrary to his order by ſome ſlender negligence or in<g ref="char:EOLhyphen"/>advertency, ſuffered the Priſoner to go a few miles beyond the place where they were ordered and authorized to carry him, and there the Pri<g ref="char:EOLhyphen"/>ſoner died of the Small-pox, what damage happened to the Creditor of this priſoner by this, even none at all; muſt a man, his wife, children and family be utterly ruined and undone for this, by the ſtrict and ſevere rules of law, this is an Eſcape, and the Priſoner being in Execution the Statute of <hi>Weſtm.</hi> the 2 <hi>Ca.</hi> 11 gives an action of debt to the Cre<g ref="char:EOLhyphen"/>ditor againſt the Keeper or Marſhal, but this is to be underſtood, when the Priſoner ſhall run quite away, or ſhall not be retaken before a Declaration or an Original filed againſt the Keeper or Marſhal, the the Lord <hi>Coke</hi> ſaith in his 3 Book fo. 44 that inaſmuch as Eſcapes are ſo penal to Sheriffs and Bayliffs of Liberties, the Judges of the Law have always made a favorable Conſtruction, aſmuch as the Law will permit in favor of Sheriffs and Bayliffs of Liberties, who are Officers and Mi<g ref="char:EOLhyphen"/>niſters of Juſtice. But the chief Juſtice before whom this Cauſe was tryed was of opinion, that as he was a Judge of Law, he ought without mixture of mercy to proceed according to the ſtrict and ſevere rules of Law, otherwiſe he thought he was guilty of the breach of his oath. But the ſaying and advice of a great Chancellor to Sir <hi>H. Mounta<g ref="char:EOLhyphen"/>gue,</hi> when he was ſworn Chief Juſtice of the Kings-Bench, was thus: As it is a fault ſaith he in a Judge to be too remiſs, and too tender and ſoft in puniſhing offences; ſo it is a fault as great or greater to be too ſharp or ſevere, for you know ſaith he, who ſaith <hi>Noli eſſe nimis Juſtus,</hi> and <hi>Severitas</hi> ſtrained too far, ſometimes becomes <hi>Saeva veritas,</hi> if not <hi>Saeva crudelitas, Moores</hi> Reports fo. 827.</p>
+            <p>Mercy is the greateſt mark of the Elect and predeſtinate Perſons in the world, mercy is an Attribute, in the manifeſtation of which, as all our happineſs conſiſts, ſo God takes greateſt Complacency and Delights in it above all his other works he puniſhes, to the third and 4th. Genera<g ref="char:EOLhyphen"/>tion, but ſhews mercy unto thouſands we are called to our approxima<g ref="char:EOLhyphen"/>tion to God by the practice of this grace; cruelty and ſeverity in mens actions runs counter and is oppoſite in all its Analogies to this Cardinal virtue, and he that acts with a rigid and inflexible ſeverity, will certain<g ref="char:EOLhyphen"/>ly draw vengeance upon himſelf from the tribunal of divine Juſtice, how can any man expect mercy from God, (whereof every man every hour ſtands in need,) when he will ſhew none to his Brother; our Bleſſed Saviour commands us to forgive our Brother Seventy times ſeven times, which is four Hundred and Ninety times, when he asks our pardon and implores our mercy, and ſince the divine mercy is or ought to be the pattern of ours by way of precedent and by way of reward, God will certainly forgive us as we forgive our Brother and no otherwiſe, which is proved by theſe four words <hi>Dimitte nobis ſicut dimittimus</hi> from whence
+<pb n="7" facs="tcp:103788:4"/>
+it follows, that to pardon and forgive is not ſo much an Election of Virtue, as an abſolute Neceſſity of Salvation.</p>
+            <p>But this being a diſcourſe out of my Sphere (tho' not out of my practice) I ſhall wave, and ſhall ſet out and declare the great care this Gentleman had in the ſafe keeping of this Priſoner, as doth appear by the following depoſitions taken upon Oath in the High Court of Chancery.</p>
+            <p>
+               <hi>William Hooper</hi> one of the <hi>Tipſtaffs</hi> depoſeth, that he doth know that <hi>George Reynel</hi> was kept a Priſoner very ſtrictly, and not ſuffe<g ref="char:EOLhyphen"/>red to go abroad but by rule of Court or <hi>habeas Corpus;</hi> and farther he doth know, that the ſaid <hi>George Reynel</hi> during the time of his Im<g ref="char:EOLhyphen"/>priſonment was a neceſſitous perſon, and in need of money, inſo<g ref="char:EOLhyphen"/>much that he wanted money to maintain himſelf in Priſon with Neceſſaries, and the ſaid <hi>Hooper</hi> farther depoſeth, that he does know that the ſaid <hi>George Reynel</hi> was carried down to the Aſſiſes, held at the Caſtle in <hi>Exeter</hi> by virtue of a <hi>habeas Corpus Teſt.</hi> the 12th. of <hi>Febr.</hi> in 24th. Year of His now Majeſties Reign, and he this Deponent was ordered by the Marſhal to carry him down, and was charged by the Marſhal to take great care, that the ſaid <hi>Reynel</hi> did not eſcape. And he farther depoſeth, that the ſaid <hi>George Reynel</hi> was not very well during his Journey to <hi>Exeter,</hi> and when he came to <hi>Exeter</hi> being ill, he pretended that he had ſome Papers or Writings at his Houſe, which was ſome miles diſtant from <hi>Exeter,</hi> which he muſt needs go thither to peruſe, and this Deponent deſiring him to forbear going thither, the ſaid <hi>George Reynel</hi> ſaid he muſt go home to ſee ſome Writings for the helping of him in the Teſtimony he was to give at the Aſſiſes, for the days and times the things were done, and this Deponent perceiving he was reſolved to go to his Houſe, and this Deponent being not able to reſiſt him nor to diſſuade him from it, was forc'd to give him good words for fear he ſhould run quite away, but notwithſtanding, the ſaid <hi>Reynel</hi> did depart from him to<g ref="char:EOLhyphen"/>wards his own Houſe he being then ſick, and on the way ſeveral Pimples broak out upon his hands and face, which he thought were ſome heats. And this Deponent upon his Oath depoſeth, that upon his the ſaid <hi>George Reynel</hi> departing from <hi>Exeter,</hi> he this Deponent did immediately follow him, but when they came to the ſaid <hi>George Reynel</hi> his Houſe, the ſaid <hi>Reynel</hi> was their immediately taken very ſick of the Small-pox, inſomuch that he could not be removed, and there in the time of the Aſſiſes died of the Small-pox in the Cuſtody of this Deponent his Keeper; this Deponent being in the Houſe all the time he lay ſick; and this Deponent farther depoſeth, that the Judge of Aſſiſe at <hi>Exeter</hi> being informed of the death of the ſaid <hi>Reynel,</hi> did thereupon order the Body of the ſaid <hi>Reynel</hi> to be brought up to the
+<pb n="8" facs="tcp:103788:5"/>
+Kings-Bench Priſon, which was done accordingly, and there after an Inquiſition taken by the Coroner, he the ſaid <hi>Reynel</hi> was buried in St. <hi>George</hi> his Church in <hi>Southwark</hi> at the Charge of M. <hi>Moſdel.</hi>
+            </p>
+         </div>
+         <div type="deposition">
+            <head>
+               <hi>The Depoſitions of</hi> Thomas Hodgkin, Gent.</head>
+            <p>Who depoſeth, that <hi>George Reynel</hi> was not ſuffered to go abroad but by rule of Court or <hi>habeas Corpus,</hi> and this Deponent is well aſſured that the ſaid <hi>George Reynel</hi> was a true Priſoner, and that he did never to this Deponents knowledge go abroad but by rule of Court or <hi>ha<g ref="char:EOLhyphen"/>beas Corpus,</hi> the which this Deponent is the better able to depoſe, for that he this Deponent was a Priſoner in the Cuſtody of the Mar<g ref="char:EOLhyphen"/>ſhal at the ſame time, that he the ſaid <hi>George Reynel</hi> was, and was very much converſant with him; and this Deponent farther depoſeth, that the ſaid <hi>George Reynel</hi> during the time of his Impriſonment, was in want of money, and knows that he did borrow money for Neceſſa<g ref="char:EOLhyphen"/>ries whilſt he was in Priſon of one Mr. <hi>Marſhal &amp;</hi> Others; and this Deponent farther depoſeth, that he was preſent at the Tryal for the Eſcape of the ſaid <hi>Reynel,</hi> and this Deponent did conceive and appre<g ref="char:EOLhyphen"/>hend that the Eſcape upon which the Verdict then paſſed againſt the Marſhal, was only upon the going of the ſaid <hi>Reynel</hi> from the place where the Aſſiſes were to be kept, and his dying of the Small-pox, and this Deponent doth verily believe, that the Plaintiff (now defendant) as the Caſe truly is could not be damnified a farthing by the Eſcape, this Deponent farther ſaith, that the Lord Chief Juſtice did declare openly in Court in regard it was an action of debt, and could not be ſeparated by the ſtrict Rules of Law, that it was a very hard Caſe on the Marſhal, and very much pittied him, he the ſaid Lord Chief Juſtice declaring, that he would not be the better by ſix pence for any ſuch recovery if it were his Caſe, leaſt it ſhould prove a Canker to his whole Eſtate, and the other Judges were much troubled for the Marſhal by reaſon it was a hard Caſe on him. And this Deponent far<g ref="char:EOLhyphen"/>ther ſaith, that he doth remember that he heard Mr. Serjeant <hi>Maynard</hi> who was of Counſel for the Plaintiff (now Defendant) declare, that he did not nor could not charge the Marſhal with any corruption in his Office.</p>
+         </div>
+         <div type="deposition">
+            <head>The Depoſitions of <hi>John Marſhal</hi> Merchant.</head>
+            <p>Who depoſeth, that he did know <hi>George Reynel</hi> of <hi>Malſtone</hi> in the county of <hi>Devon</hi> 
+               <abbr>Eſq</abbr> whilſt he was a Priſoner in the cuſtody of Mr. <hi>Moſdel,</hi> and this Deponent doth know that the ſaid <hi>Reynel</hi> was kept a Priſoner very ſtrictly, and was not ſuffered to go abroad but by <hi>habeas Corpus</hi> or rule of court in Term time, and he farther depoſeth, that the ſaid <hi>Reynel</hi> during his Impriſonment was a very neceſſitous Perſon,
+<pb n="9" facs="tcp:103788:5"/>
+and in want of money to maintain himſelf with Neceſſaries, and this Deponent farther ſaith, that he was at the Tryal of the cauſe for the Eſcape of the ſaid <hi>Reynel,</hi> and he doth well remember that the Lord Chief Juſtice did declare, and ſay it was a hard caſe upon the ſaid Mr. <hi>Moſdel,</hi> and afterwards did declare, that it was ſo hard a caſe, that if it were his own he would not be ſix pence the better by bringing ſuch an action.</p>
+         </div>
+         <div type="deposition">
+            <head>The Depoſitions of <hi>Joſeph Stretch</hi> Clerk, aged Seven and Thirty Years or thereabouts.</head>
+            <p>Who depoſeth, that he was preſent at the Tryal of the Cauſe againſt Mr. <hi>Moſdel</hi> for the Eſcape of <hi>Reynel,</hi> and did apprehend, that the Eſcape upon which the Verdict paſſed againſt M. <hi>Moſdel,</hi> was only the going of the ſaid <hi>Reynel</hi> out of <hi>Exeter,</hi> and his dying of the Small-pox during the time of the Aſſiſes, and this Deponent doth not believe that the Lady <hi>Lutterel</hi> as the caſe truly is could be damnifi<g ref="char:EOLhyphen"/>ed by the ſaid Eſcape, and this Deponent doth remember that the Lord Chief Juſtice did two or three times openly declare in Court at the Tryal, that it was a hard caſe, and alſo did declare and ſay, that if it were his debt he would not receive ſix pence for fear it ſhould canker his Eſtate or to that or the like effect; and this Deponent farther de<g ref="char:EOLhyphen"/>poſeth, that Mr. Serjeant <hi>Maynard</hi> who was of Counſel with the Lady did declare in open Court, that he did not nor could not charge the ſaid Mr. <hi>Moſdel</hi> with any corruption in his Office, or to that effect.</p>
+         </div>
+         <div type="deposition">
+            <head>The Depoſitions of <hi>Tho. Chelſam</hi> Gent.</head>
+            <p>Who depoſeth, that he was preſent at the Tryal of the Cauſe againſt Mr. <hi>Moſdel,</hi> for the Eſcape of <hi>Reynel,</hi> and doth remember that the Judges did declare, that it was a hard caſe, and particularly the Lord Chief Juſtice did declare, that it was a hard caſe, and ſaid, that if it were his caſe and he ſhould recover a Verdict he would not be any thing the better for it or to that effect, and this Deponent ſaith, that ſeveral of the Jury, as this Deponent was informed by them, were much troubled and did weep when they concluded to give in their Verdict againſt Mr. <hi>Moſdel,</hi> by reaſon the caſe was ſo hard upon him, and to conſider that a man ſhould be ruined upon ſo great a ſtrictneſs in the Law, and that they hoped the Plaintiff would not be extream with the Defendant Mr. <hi>Moſdel,</hi> but would accept of ſome ſmall matter from him.</p>
+            <p>There are ſeveral other Depoſitions made by ſeveral other Perſons in the High Court of Chancery to the ſame purpoſe and effect,
+<pb n="10" facs="tcp:103788:6"/>
+which would be too tedious to inſert. I hope theſe will be ſufficient to ſatisfie any charitable perſon of the unparallel'd ſeverity of this caſe, I ſhall only here inſert his own <hi>Affidavit</hi> made before one of the Judges of His Majeſties Court of Kings-Bench, and in a few words more ſhall conclude without any farther trouble to the courteous Reader.</p>
+            <p>Stephen Moſdel <hi>of the Inner Temple</hi> London <hi>
+                  <abbr>Eſq</abbr> maketh oath, that during the time of the Impriſonment of</hi> George Reynel, <hi>he the ſaid</hi> George Reynel <hi>ſeemed to be very poor, and oftentimes declared that he wanted mo<g ref="char:EOLhyphen"/>ney to ſupply his neceſſary Occaſions, and this Deponent upon oath farther depoſeth, that he never had or received from the ſaid</hi> George Reynel, <hi>or of any other Perſon or perſons by his Order during his Impriſonment, or at any time before or after, the ſumm of fourty Shillings in money, nor never had any thing whatſoever to his knowledg for a year &amp; an halfs Diet, Lodging, Chamber rent and fees, other then a Horſe and a Dog, which were valued at Twenty pounds or thereabouts, which never were worth to him this Deponent ten pounds, which is all that he this Deponent ever had of the ſaid</hi> George Reynel <hi>directly or indirectly, and this Deponent farther depoſeth, that he never had any acquaintance or intercourſe with the ſaid</hi> George Reynel, <hi>till he the ſaid</hi> George Reynel <hi>was committed a Priſoner in Execution to him this Deponent.</hi>
+            </p>
+            <p>It may be asked why Mr. <hi>Moſdel</hi> having ſo charitable and ſo commi<g ref="char:EOLhyphen"/>ſerative a caſe, and a Caſe that juſtly lays claim to a relief in Equity, did not exhibit his Bill in the High Court of Chancery to be relieved? It is anſwered, that Mr. <hi>Moſdel</hi> did bring his Bill in Chancery, but the Defendant by the cruel (I will not ſay unjuſt and unchriſtian-like advice of her Counſel) pleaded in Barr to his relief the Statute of 4 <hi>H.</hi> 4, by which it is enacted, that no Judgment given in any of the Kings Courts ſhall be called in queſtion, till that Judgment be reverſt by Writ of Error or Attaint, by pleading and inſiſting upon this Anti-equitable Plea, the hands of the Right honorable the Lord Chancellor were reſtrained from giving any manner of relief, to his moſt humble and immenſe oppreſſed Orator.</p>
+            <p>It may be then farther asked, why Mr. <hi>Moſdel</hi> did not exhibit his Bill in Chancery before the Verdict was given againſt him at common Law? I ſhall anſwer, that his Counſel were of opinion, that the im<g ref="char:EOLhyphen"/>mediate purſuit of the Priſoner from <hi>Exeter</hi> to his Houſe, and his dying there in the Cuſtody of his Keepers would have excuſed the Eſcape, and that he had no reaſon to ſeek a Remedy in Equity, when the Law would help him, and properly a man is to ſeek his Salve when he hath re<g ref="char:EOLhyphen"/>ceived his wound.</p>
+            <p>The reporter may ſay, that here are not only Animadverſions, but
+<pb n="11" facs="tcp:103788:6"/>
+here is alſo a Sermon of Mercy and Charity, if that be his opinion I would have him to conſider, that when a man and his Family ſhall for a Trifle be ruined and undone by the Raſour metled cutting rigorous, proceeding upon that penal Statute of <hi>Weſtm.</hi> 2 <hi>Ca.</hi> 11, and by the Sta<g ref="char:EOLhyphen"/>tute of 4 <hi>H.</hi> 4 <hi>Ca.</hi> 23 and the Statute of <hi>Praemunire,</hi> which is the Sta<g ref="char:EOLhyphen"/>tute of 27 <hi>Ed.</hi> 3 <hi>Ca.</hi> 1. the Olive Doors of Mercy, Equity, and good Conſcience ſhall be lookt up and no relief to be had, there is no remedy left but an Appeal to the great Tribunal of divine Juſtice, where every mans merits and demerits ſhall have a plenitude of rewards and puniſh<g ref="char:EOLhyphen"/>ments.</p>
+            <p>I have been oftentimes in the Company of this unhappy Gentleman Mr. <hi>Moſdel,</hi> ſince and before this ſevere thing happened upon him, and when we have diſcourſed of this matter and of this ſevere proſecution, he never would ſpeak a word that might reflect upon the Lady, but would always ſay ſhe was put upon it by her Attorney, not out of kindneſs to her or malice to him but for his own intereſt, and to get money to himſelf, how he hath proſpered with it ſince is well known, he hath alſo often declared that altho the Lady was ſevere and hard in the proſecution, yet ſhe was not ſo in the Execution of that ſharp and cruel Verdict, for he could never find or diſcover that ſhe did ever en<g ref="char:EOLhyphen"/>deavor to arreſt him. But he complained that ſhe kept him in fear, and he dare not follow any publick imployment for the ſupport of himſelf and family, which was as bad or rather worſe then an Impriſonment, which he thought the Lady did not underſtand or elſe might be miſin<g ref="char:EOLhyphen"/>formed, that which ſupported him in all theſe difficulties and obſcuri<g ref="char:EOLhyphen"/>ties of life for almoſt theſe Nine years laſt paſt, was the great hopes he had in the young Gentleman, to whom the Lady was during his Mi<g ref="char:EOLhyphen"/>nority Adminiſtratrix, that he, when he came of age would take this melancholy and cruel Caſe into his charitable and merciful conſiderati<g ref="char:EOLhyphen"/>on, and not ſuffer a calamity of ſuch a nature, and for ſo trivial a mat<g ref="char:EOLhyphen"/>ter to remain and continue on a Man and his Family to their ruine and deſtruction, when he never by any ſingle act of his ſuffered the loſs of Six pence; neither had Mr. <hi>Moſdel</hi> as he hath often declared to me, any reaſon to ſhew any kindneſs to <hi>Reynel,</hi> whereby to expoſe himſelf to any danger or to do any ill thing to the Lady, for he never had any manner of acquaintance with or knowledge of <hi>Reynel,</hi> till he was com<g ref="char:EOLhyphen"/>mitted to him a Priſoner, and after he was committed he was ſo poor and neceſſitous, that he wanted neceſſaries, as doth appear by the De<g ref="char:EOLhyphen"/>poſitions and Affidavit before mentioned.</p>
+            <p>But now the Gentleman is come of age, and Mr. <hi>Moſdels</hi> hopes will have their determination, either by the diſcharging him of this heavy burden, where under he hath groaned almoſt theſe Nine years, or by the continuance of the Weight ſink him and his Fa<g ref="char:EOLhyphen"/>mily
+<pb n="12" facs="tcp:103788:7"/>
+into greater miſeries. He that hath been in the Company of this Gentleman muſt acknowledge, that nature hath been very prodigal in her favors to him in all reſpects, from whence Mr. <hi>Moſdel</hi> may almoſt aſſure himſelf of his Equity, and that after ſo long continued a ſtorm and tempeſt, by the ſweet gales of a mer<g ref="char:EOLhyphen"/>ciful and a charitable Breath, he may arrive into a quiet and pea<g ref="char:EOLhyphen"/>ceable Harbor. It is never ſeen, that dirt and traſh is lodg'd and plac'd in rare and curious Cabinets, but Jewels of great value, and certainly there are Jewels of great value lodg'd in the Breaſt of this worthy Gentleman, ſuch as will lead him into an Enquiry into this matter, and to do and to act therein as every Chriſtian and Gentleman ought to do, and to act one towards the other, which are the hearty wiſhes of</p>
+            <closer>
+               <signed>L. C. Philalothis.</signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>In page 3. lin. 25. inſtead of <hi>or</hi> put <hi>and,</hi> p. 4. l. 10. r. only one <hi>the, idem</hi> at the end of the <hi>Habeas Corpus</hi> add <hi>Anno Regui noſtri</hi> xxiiij<hi rend="sup">o</hi>.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:103788:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
